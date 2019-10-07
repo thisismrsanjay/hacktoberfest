@@ -1,3 +1,8 @@
+#### Name: Sanjay 
+ - Place: Bhopal, MP, India
+ - Bio: Web Developer
+ - GitHub: [Sanjay](https://github.com/thisismrsanjay)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
